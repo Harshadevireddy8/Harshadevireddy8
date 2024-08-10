@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Harshadevireddy8
 - 👀 I’m interested in -webdevelopment
 - 😄 Pronouns: He/Him
-- 
+Very much intrested in ML projects and I also would love to work with java.Intrested in working with real-time open-source projects.
 
 <!---
 Harshadevireddy8/Harshadevireddy8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
