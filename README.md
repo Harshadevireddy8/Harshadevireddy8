@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Harshadevireddy8
-- 👀 I’m interested in -webdevelopment
-- 😄 Pronouns: He/Him.
+Hi, I’m @Harshadevireddy8
+I’m interested in -webdevelopment
+Pronouns: He/Him.
   
 <br>Intrested in ML projects and I also would love to work with java.Intrested in working with real-time open-source projects.
 
